@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SARMIENTO &amp; ASOCIADOS - Bienvenidos</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0,minimal-ui">
+
+<script type="text/javascript" charset="utf-8">
+	document.addEventListener('DOMContentLoaded', function () {
+		var menuCapture = document.getElementById("nav").innerHTML;
+		document.getElementById("navmobile").innerHTML = document.getElementById("nav").innerHTML;
+	});
+</script>
+
+
+		
+		<link rel="stylesheet" type="text/css" href="http://cdn2.editmysite.com/css/sites.css?buildTime=1234" />
+<link rel="stylesheet" type="text/css" href="http://cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1234" />
+<link rel="stylesheet" type="text/css" href="files/main_style.css?1432947028" title="wsite-theme-css" />
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+
+<style type='text/css'>
+.wsite-elements.wsite-not-footer div.paragraph, .wsite-elements.wsite-not-footer p, .wsite-elements.wsite-not-footer .product-block .product-title, .wsite-elements.wsite-not-footer .product-description, .wsite-elements.wsite-not-footer .wsite-form-field label, .wsite-elements.wsite-not-footer .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer h2, .wsite-elements.wsite-not-footer .product-long .product-title, .wsite-elements.wsite-not-footer .product-large .product-title, .wsite-elements.wsite-not-footer .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline {}
+.wsite-headline-paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+</style>
+<style>
+.wsite-background {background-image: url('//cdn2.editmysite.com/images/editor/theme-background/stock/Colaboration.jpg') !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: cover !important;background-color: transparent !important;background: inherit;}
+body.wsite-background {background-attachment: fixed !important;}
+</style>
+		<script><!--
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+//-->
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+
+
+<script type="text/javascript"><!--
+	var IS_ARCHIVE = 1;
+	
+	(function(jQuery){
+		function initFlyouts(){
+			initPublishedFlyoutMenus(
+				[{"id":"936540860179723776","title":"Bienvenidos","url":"index.html","target":""},{"id":"155900297172931270","title":"Servicios","url":"servicios.html","target":""},{"id":"182769915869247194","title":"Acerca de Nosotros","url":"acerca-de-nosotros.html","target":""},{"id":"931252769758158591","title":"Contacto","url":"contacto.html","target":""},{"id":"816152274459502933","title":"Tips Contables","url":"tips-contables.html","target":""}],
+				"936540860179723776",
+				"<li class=\"wsite-menu-item-wrap\"><a href=\"#\" data-membership-required=\"\" class=\"wsite-menu-item\">{{title}}<\/a><\/li>",
+				'active',
+				false,
+				{"site\/menu\/submenu-main":"<div class=\"wsite-menu-wrap\" style=\"display:none\">{{! Designer note: \"wsite-menu-wrap\" required on submenu wrapper }}\n\t<ul class=\"wsite-menu\">{{! Designer note: \"wsite-menu\" required on submenu element }}\n\t\t{{#children}}{{> site\/menu\/submenu-item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","site\/menu\/submenu-item":"<li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-subitem-wrap{{#current_page}} wsite-nav-current{{\/current_page}}\">{{! Designer note: id required & \"wsite-menu-subitem-wrap\" required on the item wrap }}\n\t<a href=\"{{itemlink}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-subitem\">{{! Designer note: \"wsite-menu-subitem\" required on the item link }}\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{itemtitle}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> site\/menu\/submenu-main}}{{\/has_children}}\n<\/li>\n","site\/menu\/main":"<ul class=\"wsite-menu-default\">{{> site\/menu\/main-without-wrap}}<\/ul>{{! Designer note: \"wsite-menu-default\" required on menu element }}\n","site\/menu\/main-without-wrap":"{{#links}}{{!\n}}{{#current_page}}{{> site\/menu\/item-current}}{{\/current_page}}{{!\n}}{{^current_page}}{{> site\/menu\/item}}{{\/current_page}}{{!\n}}{{\/links}}\n","site\/menu\/item-current":"<li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">{{! Designer note: id required & \"wsite-menu-item-wrap\" required on the item wrapper }}\n\t<a href=\"{{itemlink}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-item\">{{! Designer note: \"wsite-menu-item\" required on the item link }}\n\t\t{{{itemtitle}}}\n\t<\/a>\n\t{{#has_children}}{{> site\/menu\/submenu-main}}{{\/has_children}}\n<\/li>\n","site\/menu\/item":"<li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">{{! Designer note: id required & \"wsite-menu-item-wrap\" required on the item wrapper }}\n\t<a href=\"{{itemlink}}\" data-membership-required=\"{{membership-required}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-item\">{{! Designer note: \"wsite-menu-item\" required on the item link }}\n\t\t{{{itemtitle}}}\n\t<\/a>\n\t{{#has_children}}{{> site\/menu\/submenu-main}}{{\/has_children}}\n<\/li>\n"}
+			)
+		}
+		if (jQuery) {
+			jQuery(document).ready(function() { jQuery(initFlyouts); });
+		}else{
+			if (Prototype.Browser.IE) window.onload = initFlyouts;
+			else document.observe('dom:loaded', initFlyouts);
+		}
+	})(window._W && _W.jQuery)
+//-->
+</script>
+		
+	</head>
+	<body class="splash-page wsite-theme-light  wsite-page-index"><div id="wrapper">
+
+  <div id="header">
+    <div id="masthead">
+      <div id="masthead-wrap">
+        <div class="sitename"><span class="wsite-logo">
+
+	<a href="">
+	
+	<span id="wsite-title">SARMIENTO &amp; ASOCIADOS</span>
+	
+	</a>
+
+</span></div>      
+        <div id="sitesearch"></div>      
+      </div>
+    </div>
+
+    <div id="navigation">
+     	<div id="search"><a href="apps/search"></a></div>
+      <a id="mobile" href="#"><span class="mobile-bar"></span><span class="mobile-bar"></span><span class="mobile-bar"></span></a>
+      <div class="sitename"><span class="wsite-logo">
+
+	<a href="">
+	
+	<span id="wsite-title">SARMIENTO &amp; ASOCIADOS</span>
+	
+	</a>
+
+</span></div>      
+      <div id="navigation-wrap">
+   	 	<div id="nav"><ul class="wsite-menu-default"><li id="active" class="wsite-menu-item-wrap">
+	<a href="index.html" class="wsite-menu-item">
+		Bienvenidos
+	</a>
+	
+</li>
+<li id="pg155900297172931270" class="wsite-menu-item-wrap">
+	<a href="servicios.html" data-membership-required="0" class="wsite-menu-item">
+		Servicios
+	</a>
+	
+</li>
+<li id="pg182769915869247194" class="wsite-menu-item-wrap">
+	<a href="acerca-de-nosotros.html" data-membership-required="0" class="wsite-menu-item">
+		Acerca de Nosotros
+	</a>
+	
+</li>
+<li id="pg931252769758158591" class="wsite-menu-item-wrap">
+	<a href="contacto.html" data-membership-required="0" class="wsite-menu-item">
+		Contacto
+	</a>
+	
+</li>
+<li id="pg816152274459502933" class="wsite-menu-item-wrap">
+	<a href="tips-contables.html" data-membership-required="0" class="wsite-menu-item">
+		Tips Contables
+	</a>
+	
+</li>
+
+</ul>
+</div>
+   	 	<div id="navmobile"></div>
+     	<div id="social"></div>
+      </div>
+  	</div>
+  </div>
+
+  <div id="main">
+    
+    <div id="content-wrapper">
+  		<div id="content"><div id='wsite-content' class='wsite-elements wsite-not-footer'>
+</div>
+</div>
+	    <div class="wsite-background wsite-custom-background" style="filter: url(/files/theme/grayscale.svg#grayscale);"></div>
+  	</div>
+    
+  
+
+</div>
+<script type="text/javascript" src="files/theme/plugins.js"></script>
+<script type="text/javascript" src="files/theme/custom.js"></script>
+<script type="text/javascript" src="files/theme/mobile.js"></script>
+
+		
+	</body>
+</html>
